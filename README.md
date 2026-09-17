@@ -1,8 +1,20 @@
-#Travaux Pratiques: serveurs linux
+#  Travaux Pratiques : Serveurs Linux
 
+##  Objectif
+Utiliser la ligne de commande Linux pour identifier et analyser les services exécutés sur un ordinateur.
 
-#Objectif: Utiliser la ligne de commande linux pour identifier les services excecutés sur un ordinateur
+---
 
-Partie 1: Serveurs
+##  Sommaire
+- [Partie 1 : Serveurs](#partie-1--serveurs)
+- [Partie 2 : Utilisation de Telnet pour tester les services TCP](#partie-2--utilisation-de-telnet-pour-tester-les-services-tcp)
 
-Partie 2: Utilisation de Telnet pour tester les services TCP 
+---
+
+##  Partie 1 : Serveurs
+*Contenu de la première partie sur l'analyse et l'identification des serveurs.*
+
+---
+
+##  Partie 2 : Utilisation de Telnet pour tester les services TCP
+*Contenu de la seconde partie sur les tests de connexion avec Telnet.*
