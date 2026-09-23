@@ -12,7 +12,7 @@ Utiliser la ligne de commande Linux pour identifier et analyser les services ex�
 ---
 
 ##  Partie 1 : Serveurs
-*Contenu de la première partie sur l'analyse et l'identification des serveurs.*
+*Les serveurs sont principalement des programmes écrits pour fournir des informations spécifiques sur demande. Les clients, qui sont aussi des programmes, communiquent avec le serveur, lui envoient la requête et attendent sa réponse. Nombreuses sont les technologies de communication client/serveur qui peuvent être utilisées, mais les réseaux IP sont les plus courants. Ces travaux pratiques se concentrent sur les clients et les serveurs basés sur des réseaux IP.*
 
 ---
 
